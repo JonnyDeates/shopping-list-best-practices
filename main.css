@@ -26,7 +26,9 @@ button:hover {
   max-width: 600px;
   margin: 0 auto;
 }
-
+.disabled {
+  display: none !important;
+}
 .shopping-list {
   list-style: none;
   padding-left: 0;
